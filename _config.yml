@@ -1,6 +1,1 @@
-name: myblog
-pygments: true
 baseurl: /myblog
-layouts: ./_layouts
-destination: ./_site
-source: .
